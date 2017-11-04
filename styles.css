@@ -1,0 +1,48 @@
+.tiger-name {
+	padding: 10px 40px 10px 40px;
+	width: 300px;
+}
+
+
+.tiger-img {
+	padding: 10px 40px 40px 40px;
+	width: 300px;
+}
+
+
+.tiger-info {
+	padding: 10px 40px 10px 10px;
+	width: 300px;
+}
+
+
+.border {
+	border: 1px solid;
+	border-radius: 10px;
+}
+
+
+.main-border {
+	background-color: #d1d6a6;
+    margin: 0 930px 0 0;
+    padding: 0 10px 0 0;
+    width: 400px;
+}
+
+
+.sub-border {
+	background-color: #b4dcb5;
+	margin: 0 100px 40px 30px;
+	padding: 0 20px 0  10px;
+	width: 300px;
+}
+
+
+.bold {
+	font-weight: bold;
+}
+
+
+.italic {
+	font-style: italic;
+}
